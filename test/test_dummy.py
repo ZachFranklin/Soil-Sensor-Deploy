@@ -1,7 +1,7 @@
 """Template test module."""
 import pytest
-from amiga_package import __version__
-from amiga_package import ops
+from Soil-Sensor-Deploy import __version__
+from Soil-Sensor-Deploy import ops
 
 # import the internal libs and test
 
